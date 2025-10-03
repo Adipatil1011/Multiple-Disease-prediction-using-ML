@@ -50,8 +50,9 @@ With a focus on usability and accessibility, the project serves as a valuable to
 
 ## Screenshots
 <img width="1920" height="1078" alt="screenshot1" src="https://github.com/user-attachments/assets/3af896c2-5931-408a-891f-64c2810466cd" />
+<img width="1920" height="1078" alt="screenshot2" src="https://github.com/user-attachments/assets/e42bfd54-48da-42bb-8de4-21b70bf13ed4" />
 
-
+<img width="1920" height="1078" alt="screenshot3" src="https://github.com/user-attachments/assets/9c5b47e1-3631-4d6d-a416-b008b4fb78e9" />
 
 <!-- Add more screenshots as needed -->
 
