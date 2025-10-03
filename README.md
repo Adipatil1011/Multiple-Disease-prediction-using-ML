@@ -49,10 +49,9 @@ With a focus on usability and accessibility, the project serves as a valuable to
 4. Click on the "Diagnosis" button to get the prediction result.
 
 ## Screenshots
+<img width="1920" height="1078" alt="screenshot1" src="https://github.com/user-attachments/assets/3af896c2-5931-408a-891f-64c2810466cd" />
 
-![Diabetes Prediction](screenshots/screenshot1.png)
-![Heart Disease Prediction](screenshots/screenshot2.png)
-![Breast Cancer Prediction](screenshots/screenshot3.png)
+
 
 <!-- Add more screenshots as needed -->
 
